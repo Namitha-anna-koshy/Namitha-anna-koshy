@@ -1,8 +1,8 @@
 # Sup! I'm Namitha 👋✨
 
-🤖 **BTech AI & DS student** (thanks, Tony Stark, for the career inspo)
-🐍 **Love working in Python** (Parseltongue core)
-🍳 **Part-time chef** (my pasta > my code... most of the time)
+🤖 **BTech AI & DS student** (thanks, Tony Stark, for the career inspo)<br>
+🐍 **Love working in Python** (Parseltongue core)<br>
+🍳 **Part-time chef** (my pasta > my code... most of the time)<br>
 🤷‍♀️ **GitHub knowledge**: Still googling “how to set up Git on VS Code” daily 
 
 <pre><code>if confused:
