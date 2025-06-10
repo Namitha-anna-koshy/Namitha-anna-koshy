@@ -1,16 +1,9 @@
 # Sup! I'm Namitha 👋✨
 
-## Quick Facts: 
-🤖 **BTech AI & DS student** (thanks Tony Stark for the career inspiration)  
-🐍 **Python devotee** (if it ain't Python, I don't speak it)  
-🍳 **Part-time chef** (my pasta > my code... sometimes)  l  
-🤷‍♀️ **GitHub knowledge:** Still googling "how to git" daily  
-
-## What's cooking here: 🔥
-- AI projects that may or may not take over the world
-- Python scripts with 60% success rate that works everytime sometimes
-- Commit messages like "plz work" and "idk anymore"
-- Lots of chatgpt copy-paste (we've all been there)
+🤖 **BTech AI & DS student** (thanks, Tony Stark, for the career inspo)
+🐍 **Love working in Python** (Parseltongue core)
+🍳 **Part-time chef** (my pasta > my code... most of the time)
+🤷‍♀️ **GitHub knowledge**: Still googling “how to set up Git on VS Code” daily 
 
 <pre><code>if confused:
 	google_it() 
