@@ -22,7 +22,7 @@
 **Current vibe:** Chaotic good programmer 🎭  
 **Life motto:** "Fake it till you make it" (but make it AI) 🚀
 
-*Always down to chat about Python, cooking, or why my code doesn't work* 💬✨
+*Always down to chat about Python, cooking, or why my code doesn't work* 
 
 
 ## 🌐 Socials:
