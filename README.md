@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on: Making AI do cool things (and convincing my code to cooperate)<br><br> I’m looking to collaborate on: Projects that start with “this is a simple idea” and end with 47 browser tabs open<br><br> I’m looking for help with: Git commands because apparently `git push` has trust issues<br><br> I’m currently learning: AI, ML, and why my model works perfectly until I show someone<br><br> Ask me about: Python, AI projects, debugging adventures, or food<br><br> Fun fact: I can cook a meal faster than I can fix an error
+ I’m currently working on: Making AI do cool things (and convincing my code to cooperate)<br><br> I’m looking to collaborate on: Projects that start with “this is a simple idea” and end with 67 browser tabs open<br><br> I’m looking for help with: Git commands because apparently `git push` has trust issues<br><br> I’m currently learning: AI, ML, and why my model works perfectly until I show someone<br><br> Ask me about: Python, AI projects, debugging adventures, or food<br><br> Fun fact: I can cook a meal faster than I can fix an error
 
 
 ## 🌐 Socials:
